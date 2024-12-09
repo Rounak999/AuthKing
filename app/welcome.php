@@ -80,7 +80,7 @@ if (!isset($_SESSION['login_user'])) {
 <body>
     <div class="container">
         <h1>Welcome</h1>
-        <p>flag{SeCurE Auth}</p>
+        <p>flag{####}</p>
     </div>
 </body>
 </html>
