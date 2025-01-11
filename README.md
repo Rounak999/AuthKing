@@ -4,8 +4,9 @@
 
 ### 🚀 Getting Started
 
-1. **Login:** Access the application to begin your challenge.
-
-2. **Run Docker Compose:**
+1. **Run Docker Compose:**
    ```shell
    docker-compose up -d
+
+### Goal
+Login to get flag.
