@@ -1,5 +1,11 @@
-**This is a CTF build to test your code review skills.
-Login in the application to find the flag**
+## Capture The Flag (CTF) Build 🚩
 
-**Run Docker Compose**: ```docker-compose up -d ```
-**Access the Application**: Open your browser and navigate to `http://localhost`.
+**Test your code review skills by finding the flag in this CTF build.**
+
+### 🚀 Getting Started
+
+1. **Login:** Access the application to begin your challenge.
+
+2. **Run Docker Compose:**
+   ```shell
+   docker-compose up -d
