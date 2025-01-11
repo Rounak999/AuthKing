@@ -8,5 +8,5 @@
    ```shell
    docker-compose up -d
 
-### Goal
-Login to get flag.
+ ### 🚩 Goal
+ **Login to get flag.**
